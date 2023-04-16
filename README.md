@@ -11,7 +11,7 @@ Uses desmos mathquill fork
 - select Install from VSIX
 
 # Usage
-
+![](demo.png)
 - bind a shortcut to the action "Open an interactive LaTeX panel"
 - when using this shortcut, type your equation and see it take life, hit enter to copy it to your clipboard
 - or escape to cancel and close the panel
