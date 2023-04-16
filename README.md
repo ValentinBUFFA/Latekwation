@@ -1,7 +1,7 @@
 # Latekwation - WIP
 
 VSCode extension aiming to make typing equations easier using an interactive panel.
-Uses desmos mathquill fork
+Uses desmos mathquill fork.
 
 # Installation
 
